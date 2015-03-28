@@ -1,0 +1,614 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+============= Next Event ===============================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Num of AOD elec:  1
+Num of DPD elec:  1
+Matching AOD Elec #:  1
+=======================================================================
+Event Number:  1033189 1033189
+Electron Number:  1 / 1
+    Emaxs1:     0.0
+    clusterET:  0.0
+    d0:  0.0222667031593
+    d0sigma:  0.0176327763511
+    deltaEta:  -0.035124886964
+    deltaPhiRescaled:  -0.0553005330328
+    dpOverp:  76.321
+    e237:  0.0
+    e277:  3.20596916317e-09
+    et:  1.00571319434e-09
+    eta:  -0.000191428439887
+    ethad:  -1.29077488687e-07
+    ethad1:  -8.76987132807e-07
+    f1:  0.00133467002151
+    f3:  0.025396249318
+    rTRT:  (0.0, 0.0, 'Zero Division')
+    reta:  0.000161648132036
+    rhad:  -139.731740852 -0.01305 -0.0054435845473
+    rhad1:  -0.0658490240274 -0.00544 -0.0054435845473
+    rphi:  0.000320746884928
+    w2:  0.042789017726
+    ws3:  8.24966267525e-05
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Total AOD electrons matched: 1 / 1 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+============= Next Event ===============================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Num of AOD elec:  3
+Num of DPD elec:  1
+Matching AOD Elec #:  1
+=======================================================================
+Event Number:  1030864 1030864
+Electron Number:  1 / 3
+    Emaxs1:     0.00034479579009
+    clusterET:  1.04019689941e-08
+    d0:  0.00261821173797
+    d0sigma:  0.00334481436285
+    deltaEta:  0.363949833621
+    deltaPhiRescaled:  -0.00474705128398
+    dpOverp:  62.552
+    e237:  8.1092772465e-09
+    e277:  4.04466327787e-09
+    et:  2.67372990017e-09
+    eta:  0.00159387324309
+    ethad:  -2.72846039976e-06
+    ethad1:  -8.16334053503e-06
+    f1:  0.00063239456968
+    f3:  0.0370242296736
+    rTRT:  3.97364283083e-06
+    reta:  0.000125187642304
+    rhad:  -202.504955247 -0.00608 -0.00200988443149
+    rhad1:  -0.00575000755151 -0.00201 -0.00200988443149
+    rphi:  0.000606090672202
+    w2:  0.0273222613987
+    ws3:  0.000730297652656
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  2
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  3
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Total AOD electrons matched: 1 / 3 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+============= Next Event ===============================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Num of AOD elec:  8
+Num of DPD elec:  4
+Matching AOD Elec #:  1
+=======================================================================
+Event Number:  1040768 1040768
+Electron Number:  1 / 8
+    Emaxs1:     0.0282225995364
+    clusterET:  0.0
+    d0:  -0.0062485770242
+    d0sigma:  0.0083680046116
+    deltaEta:  0.0134325196138
+    deltaPhiRescaled:  0.0326348668104
+    dpOverp:  83.026
+    e237:  2.30551501974e-09
+    e277:  0.0
+    et:  2.53679247591e-09
+    eta:  0.00057980027424
+    ethad:  1.35540304169e-07
+    ethad1:  9.13153606995e-08
+    f1:  0.00159733125943
+    f3:  0.0044564510148
+    rTRT:  0.0
+    reta:  0.000154593545284
+    rhad:  0.00105695260489 0.05946 0.0594606284707
+    rhad1:  0.00749090284714 0.06147 0.0614653956869
+    rphi:  0.000328365050222
+    w2:  0.0266915371238
+    ws3:  0.000414334898407
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  2
+=======================================================================
+Event Number:  1040768 1040768
+Electron Number:  2 / 8
+    Emaxs1:     0.000316357693494
+    clusterET:  7.59395931562e-09
+    d0:  0.0021438983816
+    d0sigma:  0.00184701924643
+    deltaEta:  -0.181083102545
+    deltaPhiRescaled:  -0.198777280903
+    dpOverp:  70.903
+    e237:  1.4070928985e-08
+    e277:  1.62877229969e-08
+    et:  2.5169604181e-08
+    eta:  -0.000352871199206
+    ethad:  4.15894875737e-08
+    ethad1:  3.97206591731e-08
+    f1:  0.00051301611648
+    f3:  0.0205011430857
+    rTRT:  0.000335816851866
+    reta:  0.000639449066395
+    rhad:  0.00187028468987 0.24194 0.241944525051
+    rhad1:  0.00309506698945 0.12666 0.126663920333
+    rphi:  8.73713401488e-05
+    w2:  0.0438045185418
+    ws3:  0.000308553168191
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  3
+=======================================================================
+Event Number:  1040768 1040768
+Electron Number:  3 / 8
+    Emaxs1:     (0.0, 0.0, 'Zero Division')
+    clusterET:  0.0
+    d0:  0.0196149296883
+    d0sigma:  0.00516113216365
+    deltaEta:  0.0331791780208
+    deltaPhiRescaled:  -0.0031285927798
+    dpOverp:  87.442
+    e237:  2.3380616372e-08
+    e277:  6.44881424654e-09
+    et:  2.84221337779e-07
+    eta:  0.000299721435185
+    ethad:  1.90010494486e-07
+    ethad1:  1.4510475256e-07
+    f1:  (0.0, 0.0, 'Zero Division')
+    f3:  (0.0, 0.0, 'Zero Division')
+    rTRT:  0.00132886304438
+    reta:  0.000302601874067
+    rhad:  13.4529074531 0.17305 0.199948946761
+    rhad1:  0.000526753845814 0.19995 0.199948946761
+    rphi:  0.000483163886056
+    w2:  0.00817310362997
+    ws3:  -0.0
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  4
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  5
+=======================================================================
+Event Number:  1040768 1040768
+Electron Number:  5 / 8
+    Emaxs1:     0.00322250729159
+    clusterET:  2.33244356835e-08
+    d0:  -0.00857942924948
+    d0sigma:  0.00164644007247
+    deltaEta:  0.00485437768362
+    deltaPhiRescaled:  -0.0181140730095
+    dpOverp:  105.172
+    e237:  1.56476931612e-08
+    e277:  9.87760947279e-08
+    et:  4.55783799229e-08
+    eta:  -0.000168106776638
+    ethad:  4.5490524595e-05
+    ethad1:  -1.32142051977e-05
+    f1:  0.00125175266455
+    f3:  0.000558435634185
+    rTRT:  0.00600037250668
+    reta:  0.00036970847948
+    rhad:  0.0998095816412 0.00094 0.000940939147427
+    rhad1:  -0.409506907856 -0.00096 -0.000963947431319
+    rphi:  0.000186132858327
+    w2:  0.0207996174029
+    ws3:  0.000484482607338
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  6
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  7
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  8
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Total AOD electrons matched: 4 / 8 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+============= Next Event ===============================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Num of AOD elec:  9
+Num of DPD elec:  2
+Matching AOD Elec #:  1
+=======================================================================
+Event Number:  1033457 1033457
+Electron Number:  1 / 9
+    Emaxs1:     9.23841160595e-05
+    clusterET:  6.18001643327e-09
+    d0:  0.000233002058035
+    d0sigma:  0.00482998651203
+    deltaEta:  0.0426948067707
+    deltaPhiRescaled:  0.0770016275335
+    dpOverp:  44.39
+    e237:  2.97960856387e-09
+    e277:  8.27677486913e-09
+    et:  7.8895508669e-09
+    eta:  -0.000841197666493
+    ethad:  1.31448934634e-06
+    ethad1:  9.01816756714e-07
+    f1:  0.00149798596625
+    f3:  0.0334601158314
+    rTRT:  0.000795231590508
+    reta:  0.00030501521502
+    rhad:  8.13164404184 0.00693 0.00754340265233
+    rhad1:  0.0451076588006 0.00754 0.00754340265233
+    rphi:  0.000447846070463
+    w2:  0.0466505782005
+    ws3:  4.74000586176e-05
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  2
+=======================================================================
+Event Number:  1033457 1033457
+Electron Number:  2 / 9
+    Emaxs1:     0.00030628357342
+    clusterET:  4.51085755753e-08
+    d0:  0.00989667344676
+    d0sigma:  0.0012132037318
+    deltaEta:  -0.0163732969297
+    deltaPhiRescaled:  0.00368949558069
+    dpOverp:  92.939
+    e237:  2.98623073866e-09
+    e277:  3.53288655151e-08
+    et:  2.17311169377e-08
+    eta:  0.000396347850173
+    ethad:  5.29847659404e-08
+    ethad1:  4.66182626135e-08
+    f1:  0.00302516962904
+    f3:  0.0035197684757
+    rTRT:  0.0159992548227
+    reta:  0.000580289942914
+    rhad:  1.017271785 0.90848 0.917816690228
+    rhad1:  0.000360613647845 0.91782 0.917816690228
+    rphi:  0.000787707078503
+    w2:  0.0100698781679
+    ws3:  0.00017729932706
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  3
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  4
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  5
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  6
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  7
+=======================================================================
+Event Number:  1033457 1033457
+Electron Number:  7 / 9
+    Emaxs1:     9.23841160595e-05
+    clusterET:  6.18001643327e-09
+    d0:  97.9156749161
+    d0sigma:  6.68499568656
+    deltaEta:  418.237565028
+    deltaPhiRescaled:  19450863.5459
+    dpOverp:  100.0
+    e237:  2.97960856387e-09
+    e277:  8.27677486913e-09
+    et:  7.8895508669e-09
+    eta:  -0.000841197666493
+    ethad:  1.31448934634e-06
+    ethad1:  9.01816756714e-07
+    f1:  0.00149798596625
+    f3:  0.0334601158314
+    rTRT:  70.0012014305
+    reta:  0.00030501521502
+    rhad:  8.13164404184 0.00693 0.00754340265233
+    rhad1:  0.0451076588006 0.00754 0.00754340265233
+    rphi:  0.000447846070463
+    w2:  0.0466505782005
+    ws3:  4.74000586176e-05
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  8
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  9
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Total AOD electrons matched: 3 / 9 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+============= Next Event ===============================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Num of AOD elec:  4
+Num of DPD elec:  3
+Matching AOD Elec #:  1
+=======================================================================
+Event Number:  1032344 1032344
+Electron Number:  1 / 4
+    Emaxs1:     0.00011599559086
+    clusterET:  2.07497408714e-09
+    d0:  -0.00623335527277
+    d0sigma:  0.00857793826902
+    deltaEta:  -0.360624383936
+    deltaPhiRescaled:  0.00988321391268
+    dpOverp:  94.389
+    e237:  7.27566789188e-09
+    e277:  6.58416202454e-09
+    et:  5.98873982505e-09
+    eta:  -0.00069761977352
+    ethad:  7.55604983481e-08
+    ethad1:  3.2909666016e-08
+    f1:  0.000496944587789
+    f3:  0.0336596103667
+    rTRT:  0.0
+    reta:  0.00039776563365
+    rhad:  1.63330933744 0.04071 0.0400557654428
+    rhad1:  0.0105716545798 0.04006 0.0400557654428
+    rphi:  0.000452126149153
+    w2:  0.00770244801072
+    ws3:  0.000409491949803
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  2
+=======================================================================
+Event Number:  1032344 1032344
+Electron Number:  2 / 4
+    Emaxs1:     0.000300128792511
+    clusterET:  2.5813529914e-08
+    d0:  0.00194353627171
+    d0sigma:  0.0119340753276
+    deltaEta:  0.0103242456844
+    deltaPhiRescaled:  -0.00727380244876
+    dpOverp:  93.901
+    e237:  4.31267416689e-08
+    e277:  3.39408557038e-08
+    et:  9.88856906805e-09
+    eta:  0.00036403345007
+    ethad:  7.89789928907e-08
+    ethad1:  3.10578811049e-08
+    f1:  0.000248444679343
+    f3:  0.00266108810156
+    rTRT:  0.000997019738053
+    reta:  0.0001536049906
+    rhad:  0.000736793162043 0.55303 0.553034074717
+    rhad1:  0.00393939099206 0.04395 0.0439482687059
+    rphi:  0.000305510952404
+    w2:  0.00273971563928
+    ws3:  0.000436194633445
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  3
+=======================================================================
+Event Number:  1032344 1032344
+Electron Number:  3 / 4
+    Emaxs1:     0.000413391635118
+    clusterET:  4.28165946143e-08
+    d0:  0.00414662951607
+    d0sigma:  0.000539325200934
+    deltaEta:  -0.0104241572062
+    deltaPhiRescaled:  -0.014159834935
+    dpOverp:  98.394
+    e237:  4.0512430596e-08
+    e277:  3.20632282866e-08
+    et:  2.54415775048e-08
+    eta:  -0.00386756120842
+    ethad:  -5.25382858162e-06
+    ethad1:  -3.29839258436e-06
+    f1:  0.000857245770217
+    f3:  0.0054675159078
+    rTRT:  0.00500273174289
+    reta:  0.000521434133656
+    rhad:  -48.9919268802 -0.00513 -0.0100572315052
+    rhad1:  -0.0275274044862 -0.01006 -0.0100572315052
+    rphi:  0.000215980115352
+    w2:  0.0288820519092
+    ws3:  0.000837080998893
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  4
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Total AOD electrons matched: 3 / 4 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+============= Next Event ===============================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Num of AOD elec:  9
+Num of DPD elec:  2
+Matching AOD Elec #:  1
+=======================================================================
+Event Number:  1041780 1041780
+Electron Number:  1 / 9
+    Emaxs1:     0.000497350075856
+    clusterET:  2.57342655548e-09
+    d0:  0.00613216003945
+    d0sigma:  0.0222724534335
+    deltaEta:  0.101551496356
+    deltaPhiRescaled:  -0.143770849722
+    dpOverp:  95.985
+    e237:  1.09984151892e-08
+    e277:  6.94604507316e-09
+    et:  1.02598638707e-09
+    eta:  -0.000210062822513
+    ethad:  -3.71917576087e-05
+    ethad1:  4.54286850209e-06
+    f1:  0.000183775373478
+    f3:  0.0337266813345
+    rTRT:  2.23517423112e-06
+    reta:  0.000490976615446
+    rhad:  -0.666408395007 -0.00034 -0.000337749210904
+    rhad1:  0.0521964875477 0.00156 0.00156081469045
+    rphi:  0.000401825709268
+    w2:  0.0253677625045
+    ws3:  0.000598571910867
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  2
+=======================================================================
+Event Number:  1041780 1041780
+Electron Number:  2 / 9
+    Emaxs1:     0.000869322160518
+    clusterET:  4.15823876443e-08
+    d0:  -0.0152555019572
+    d0sigma:  0.00155790100017
+    deltaEta:  -0.00850734871208
+    deltaPhiRescaled:  -0.0137734598883
+    dpOverp:  96.959
+    e237:  5.32067209737e-08
+    e277:  3.88612462776e-08
+    et:  3.35708564879e-08
+    eta:  0.00490144394434
+    ethad:  1.25436123776e-07
+    ethad1:  1.12216283324e-06
+    f1:  0.00360813658325
+    f3:  0.00871192406754
+    rTRT:  0.0100029799341
+    reta:  0.000339073600721
+    rhad:  513.821255939 0.12179 0.0198412809628
+    rhad1:  0.00645604871734 0.01984 0.0198412809628
+    rphi:  0.000359867889147
+    w2:  0.0216090719129
+    ws3:  0.000563155956915
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  3
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  4
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  5
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  6
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  7
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  8
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  9
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Total AOD electrons matched: 2 / 9 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+============= Next Event ===============================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Num of AOD elec:  8
+Num of DPD elec:  2
+Matching AOD Elec #:  1
+=======================================================================
+Event Number:  1034839 1034839
+Electron Number:  1 / 8
+    Emaxs1:     0.000333156063734
+    clusterET:  0.0
+    d0:  0.0092252813252
+    d0sigma:  0.00129358633914
+    deltaEta:  0.22620313441
+    deltaPhiRescaled:  0.0312281830256
+    dpOverp:  70.488
+    e237:  3.93548361023e-09
+    e277:  3.66834268349e-09
+    et:  1.67117060927e-08
+    eta:  0.000154096607825
+    ethad:  -2.55508841446e-06
+    ethad1:  3.68474624836e-06
+    f1:  0.00159910819826
+    f3:  0.0250413296869
+    rTRT:  (0.0, 0.0, 'Zero Division')
+    reta:  0.000297844552726
+    rhad:  285.043680742 -0.00654 0.00353430064393
+    rhad1:  0.121683024737 0.00353 0.00353430064393
+    rphi:  0.000390739524558
+    w2:  0.0395043135444
+    ws3:  0.000515708229675
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  2
+=======================================================================
+Event Number:  1034839 1034839
+Electron Number:  2 / 8
+    Emaxs1:     0.000526200562172
+    clusterET:  2.78180938114e-09
+    d0:  -0.0135018198787
+    d0sigma:  0.00885233001691
+    deltaEta:  0.0301060592383
+    deltaPhiRescaled:  -0.0047551956449
+    dpOverp:  92.646
+    e237:  8.23627759566e-08
+    e277:  2.49211014136e-09
+    et:  5.47620941162e-08
+    eta:  -0.000373492958274
+    ethad:  1.92829640679e-08
+    ethad1:  7.12323184087e-08
+    f1:  0.00101188165937
+    f3:  0.0168211399817
+    rTRT:  0.00299602647606
+    reta:  0.000554616381254
+    rhad:  0.000538810125156 0.61514 0.615136685581
+    rhad1:  0.000470594266519 0.33304 0.333041567275
+    rphi:  0.000404935224948
+    w2:  0.0331049826805
+    ws3:  0.000628068843497
+
+
+>> Number of electrons Matched to AOD electron: 1  <<
+
+Matching AOD Elec #:  3
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  4
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  5
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  6
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  7
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Matching AOD Elec #:  8
+>> Number of electrons Matched to AOD electron: 0  <<
+
+Total AOD electrons matched: 2 / 8 
+
+
