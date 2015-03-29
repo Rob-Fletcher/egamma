@@ -21,6 +21,20 @@ for key in infile.GetListOfKeys():
         print "Found canvas. Writing ..."
         canv = obj
         #canv.GetYAxis().SetRangeUser(0.5,1.0)
+        list = canv.GetListOfPrimitives()
+        hist = 0
+        for item in list:
+            hist = canv.GetPrimitive(item.GetName())
+            if hist.Class().InheritsFrom(ROOT.TH1.Class()):
+                print "found first histogram on canvas"
+                break
+        if 'data' in hist.GetName():
+            print "found signal histo"
+            hist.GetYaxis().SetRangeUser(0.5,1.0)
+        if 'bkgd' in hist.GetName():
+            print "found background histo"
+            hist.GetYaxis().SetRangeUser(0.0,0.04)
+
         canv.Print(outfileName)
 
 
