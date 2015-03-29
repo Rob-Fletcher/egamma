@@ -4,6 +4,7 @@
 # SVN stuff #
 #############
 *.svn-base
+*.tmp
 # Compiled source #
 ###################
 *.com
@@ -30,5 +31,16 @@
 *.log
 *.sql
 *.sqlite
+# Pictures and documents #
+##########################
+*.pdf
+*.jpg
+*.gif
+*.png
+# egammaCore stuff #
+####################
+*.job
+*.err
+*.out
 
 
